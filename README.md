@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0001-two-sum) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
