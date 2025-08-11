@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0066-plus-one) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/ShahilVK/leetcode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Two Pointers
 |  |
 | ------- |
