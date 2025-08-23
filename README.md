@@ -18,6 +18,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0066-plus-one) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
