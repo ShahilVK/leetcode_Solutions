@@ -21,6 +21,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0066-plus-one) |
+| [0258-add-digits](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0258-add-digits) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -41,4 +42,12 @@
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
