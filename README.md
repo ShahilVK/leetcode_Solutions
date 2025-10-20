@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1293-three-consecutive-odds](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1293-three-consecutive-odds) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -43,11 +44,13 @@
 |  |
 | ------- |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/ShahilVK/leetcode_Solutions/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ShahilVK/leetcode_Solutions/tree/master/0258-add-digits) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShahilVK/leetcode_Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3311-ant-on-the-boundary](https://github.com/ShahilVK/leetcode_Solutions/tree/master/3311-ant-on-the-boundary) |
 ## Number Theory
 |  |
